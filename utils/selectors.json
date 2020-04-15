@@ -1,0 +1,12 @@
+{
+  "cascader": {
+    "cascaderList": "ul.ant-cascader-menu",
+    "cascaderOption": ".ant-cascader-menu-item"
+  },
+  "radio": {
+    "radioOption": ".ant-radio-wrapper"
+  },
+  "select": {
+    "optionItem": ".ant-select-item-option"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "testcafe-antd-helpers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome test -e"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "testcafe": "^1.8.4"
+  }
+}
