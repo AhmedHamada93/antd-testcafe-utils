@@ -2,7 +2,7 @@
 >TestCafe helper functions library for antD React UI library.
 
 ### Install
-`npm i testcafe-antd-utils`
+`npm i antd-testcafe-utils`
 
 ### What you will find?
 Some common functions used to manipulate user actions on antD components using TestCafe.
