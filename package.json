@@ -1,15 +1,12 @@
 {
-  "name": "testcafe-antd-helpers",
+  "name": "testcafe-antd-utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "TestCafe helper functions library for antD React UI library.",
   "main": "index.js",
-  "scripts": {
-    "test": "testcafe chrome test -e"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
+  "keywords": ["testcafe", "antd", "helper", "e2e", "testing"],
+  "author": "AHMEDHAMADA",
+  "license": "MIT",
+  "dependencies": {
     "faker": "^4.1.0",
     "testcafe": "^1.8.4"
   }
